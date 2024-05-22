@@ -41,5 +41,8 @@ endmodule
 # OUTPUT:
 
 ![image](https://github.com/nithin2134/4BIT_SYNCHRONOUS_UP_COUNTER/assets/160302970/322c7188-3550-4ff8-ad6b-eedb3ce9f895)
+# RESULT
+  hence we have abserved and simulated 4BIT_SYNCHRONOUS_UP_COUNTER using verilog code
+
 
 
